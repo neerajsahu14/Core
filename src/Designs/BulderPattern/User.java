@@ -1,3 +1,5 @@
+package Designs.BulderPattern;
+
 class User {
 
     private final String userid;
@@ -25,7 +27,7 @@ class User {
 
     // @Override
     // public String toString() {
-    // // TODO Auto-generated method stub
+    // 
     // return this.username+":"+this.userEmail +":"+this.userid;
     // }
 
