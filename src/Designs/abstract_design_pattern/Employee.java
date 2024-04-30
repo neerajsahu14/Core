@@ -1,4 +1,4 @@
-package abstract_design_pattern;
+package Designs.abstract_design_pattern;
  interface Employee {
      int sarary();
 

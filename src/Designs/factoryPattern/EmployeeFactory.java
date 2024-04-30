@@ -1,4 +1,4 @@
-package factoryPattern;
+package Designs.factoryPattern;
 
 public class EmployeeFactory {
     // get the name of the employee

@@ -1,4 +1,4 @@
-package factoryPattern;
+package Designs.factoryPattern;
 
 public class clint { 
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package abstract_design_pattern;
+package Designs.abstract_design_pattern;
 
 public abstract class EmployeeAbstractFactory {
    public  abstract Employee creatEmployee(); 

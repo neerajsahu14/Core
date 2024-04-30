@@ -1,3 +1,4 @@
+package Designs.singltonPattern;
 abstract class Editor {
     abstract void show();
 

@@ -1,4 +1,4 @@
-package Prototype;
+package Designs.Prototype;
 
 public class Main implements Cloneable {
     public static void main(String[] args) throws Exception, CloneNotSupportedException {

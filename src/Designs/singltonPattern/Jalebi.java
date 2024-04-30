@@ -1,3 +1,4 @@
+package Designs.singltonPattern;
 public class Jalebi {
     private static Jalebi jalebi= new Jalebi();
     private Jalebi(){

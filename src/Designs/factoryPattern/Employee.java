@@ -1,7 +1,7 @@
 /**
  * Employee
  */
-package factoryPattern;
+package Designs.factoryPattern;
 public interface Employee {
     int salary();
     

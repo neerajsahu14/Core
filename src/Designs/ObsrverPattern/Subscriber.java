@@ -1,3 +1,4 @@
+package Designs.ObsrverPattern;
 public class Subscriber implements Observer {
     String name;
 

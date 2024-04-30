@@ -1,4 +1,4 @@
-package Prototype;
+package Designs.Prototype;
 public class NetworkConnection implements Cloneable{
     private String ip;
     private String importantData;

@@ -1,3 +1,4 @@
+package Designs.singltonPattern;
 
 import java.io.Serializable;
 

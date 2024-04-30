@@ -1,3 +1,4 @@
+package Designs.ObsrverPattern;
 public interface Subject {
     void subscriber(Observer ob);
 

@@ -1,4 +1,4 @@
-package factoryPattern;
+package Designs.factoryPattern;
 
 public class webDevloper implements Employee  {
     public int salary() {
